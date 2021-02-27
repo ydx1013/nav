@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/ydx1013/nav',
 
   // 部署分支
   branch: 'main',
@@ -11,7 +11,7 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: true,
+  showGithub: false,
 
   // 您的网站地址，有利于SEO
   homeUrl: 'https://nav3.cn',
